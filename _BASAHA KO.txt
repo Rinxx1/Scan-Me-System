@@ -1,0 +1,10 @@
+FOLDER
+technoS/
+  [adminn] - naa diri ang files/webpages sa admin na side sa system
+  [users] - naa diri ang files/webpages sa user side sa system
+  [img] - diri naka save ang mga pics like qr code sa users, requirement sa driver og requirement sa pag apply og discount
+
+DATABASE - techno_db.sql
+COMPANY LOGO - tslogo.png
+
+NOTE: Naa sa technoS ang index or homepage. Naa pud diri ang majority sa na gamit na function. 
